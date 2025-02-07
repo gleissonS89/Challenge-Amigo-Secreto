@@ -11,7 +11,7 @@ Este projeto é uma atividade proposta pelo projeto One em parceria com a Alura,
 
 ## Demonstração do Projeto
 
-![Video Demosntrativo](https://github.com/gleissonS89/Challenge-Amigo-Secreto/blob/3fb0502eb653afcc05c4c203ef009a212db737d9/Demonstra%C3%A7ao.mov)
+![Video Demosntrativo](https://github.com/gleissonS89/Challenge-Amigo-Secreto/blob/3fad4a9c761968acda1fe8642fc7a30bd3ff3c62/Demonstra%C3%A7ao.gif)
 
 ## ✔️ Técnicas e tecnologias utilizadas
 * ``HTML``
