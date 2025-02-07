@@ -9,6 +9,10 @@ Este projeto é uma atividade proposta pelo projeto One em parceria com a Alura,
 - `Funcionalidade 2`: Sorteia um nome desta lista que foram previamente armazenados em um Array.Onde logo após irá exibir uma mensagem como o nome sorteado.
 - `Funcionalidade 3`: Caso o usuário tente adicionar um nome à lista sem preencher o campo com uma entrada válida , será exibido um alerta no topo da tela solicitando que digite um nome.
 
+## Demonstração do Projeto
+
+![Video Demosntrativo](https://github.com/gleissonS89/Challenge-Amigo-Secreto/blob/3fb0502eb653afcc05c4c203ef009a212db737d9/Demonstra%C3%A7ao.mov)
+
 ## ✔️ Técnicas e tecnologias utilizadas
 * ``HTML``
 * ``CSS``
