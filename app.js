@@ -14,7 +14,7 @@ function adicionarAmigo() {
         listaAmigos.textContent = campo.value;
         lista.appendChild(listaAmigos);
         campo.value = '';
-        //console.log(listaDeParticipantes);
+        
         
     }
 
@@ -24,5 +24,5 @@ function sortearAmigo() {
     let lista = document.getElementById('listaAmigos');
             lista.style.display = 'none';
     sorteado.innerHTML = `O amigo secreto é: ${sortear}`;
-    //console.log(sortear);
+    
 }
