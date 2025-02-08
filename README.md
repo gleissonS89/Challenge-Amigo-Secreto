@@ -2,7 +2,8 @@
 
 ## Resumo do Projeto
 
-Este projeto é uma atividade proposta pelo projeto One em parceria com a Alura, visando a prática e reforçando os conhecimentos adquiridos em Praticando Logica de programação.
+Este projeto é uma atividade proposta visando a prática e reforçando os conhecimentos adquiridos em Praticando Logica de programação.
+
 ## :hammer: Funcionalidades do projeto
 
 - `Funcionalidade 1`:Adiciona o nome dos participantes do sorteio a uma lista que será exibida acima do botão que realiza o sorteio.
